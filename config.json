@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenralculate",
+        "uuid": 13173950,
+        "checksum": "ioex1d"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
